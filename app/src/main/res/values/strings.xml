@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Random</string>
+    <string name="main">🎯</string>
+    <string name="number_master">Number Master</string>
+    <string name="i_ve_picked_a_secret_number_between_1_and_100_can_you_crack_the_code">I\'ve picked a secret number between 1 and 100. Can you crack the code?</string>
+    <string name="your_guess">Your Guess</string>
+    <string name="submit_guess">Submit Guess</string>
+    <string name="good_luck">Good Luck! 🍀</string>
+    <string name="attempts_0">Attempts: 0</string>
+</resources>
