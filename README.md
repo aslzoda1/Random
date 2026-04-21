@@ -7,7 +7,7 @@
 
 **Random Numb Logic** — bu aqlni charxlovchi, minimalistik va zamonaviy dizaynga ega "Sonni top" o'yini. Kompyuter 1 dan 100 gacha son o'ylaydi, siz esa eng kam urinish bilan uni topishingiz kerak!
 
----
+---         
 
 ## 🚀 Xususiyatlari
 
