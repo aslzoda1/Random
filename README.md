@@ -1,4 +1,4 @@
-# 🎲 Random Numb Logic
+# 🎲 𝑹𝒂𝒏𝒅𝒐𝒎 𝑵𝒖𝒎𝒃 𝑳𝒐𝒈𝒊𝒄
 
 ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-purple)
