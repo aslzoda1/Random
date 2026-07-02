@@ -51,6 +51,3 @@ Loyiha ustida ishlashni boshlash uchun quyidagi buyruqlarni terminalga yozing:
 1. Repozitoriyadan nusxa oling:
    ```bash
    git clone [https://github.com/aslzoda1/Random.git](https://github.com/aslzoda1/Random.git)
-
-
-aslzoda
